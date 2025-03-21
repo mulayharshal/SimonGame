@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 7px black solid;
+    margin: 3rem;
+    border-radius: 2rem;
+}
+.one{
+    background-color: aqua;
+}
+.two{
+    background-color: brown;
+}
+.three{
+    background-color: chartreuse;
+}
+.four{
+    background-color: blueviolet;
+}
+.blink{
+    background-color: wheat;
+}
